@@ -20,28 +20,19 @@ export default function Home() {
             </div>
           <div className="col-lg-9">
             <h1 className="font-bold text-3xl font-serif">Melkonian Industries</h1>
-            <h2>Professional Services based around innovative software development and
-              a commitment to client satisfaction above all else.</h2>
+            <h2>Professional Services based around innovative software development and a 
+              commitment to client satisfaction above all else.</h2>
               <p className="text-neutral-800 dark:text-neutral-200">
-                We fit the solution to achieve your goals. Our engagements are based on learning about you,
-                as our client, so we can support your organization's quest for effectiveness, efficiency,
-                and innovation.
+                We fit the solution to achieve your goals. Our engagements are based on learning about you, as our client, so we can support your organization's quest for effectiveness, efficiency, and innovation.
               </p>
               <p className="my-3 text-neutral-800 dark:text-neutral-200">
-                Our offerings include software consulting, software development, graphic and logo design,
-                user experience design and development, user interface expertise, music composition, recording
-                and production. 
-              </p>
+                Our offerings include software consulting, software development, graphic and logo design, user experience design and development, user interface expertise, music composition, recording and production.
+               </p>
               <p className="my-3 text-neutral-800 dark:text-neutral-200">
-                Melkonian Industries has partnered with many clients, including D\CAL, Onu One, Optum, Dewpoint,
-                Delta Dental of Michigan, ArtPrize, Jaroof and many more.
+              Melkonian Industries has partnered with many clients, including D\CAL, Onu One, Optum, Dewpoint, Delta Dental of Michigan, ArtPrize, Jaroof and many more.
               </p>
           </div>
 
-           
-
-      
-    
       </main>
 
       {/* <Footer /> */}
