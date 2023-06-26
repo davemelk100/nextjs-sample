@@ -6,10 +6,7 @@ h1, .h1 {
   font-size: 5rem !important;
 }
 .brand-patch {
-  border: 1px solid lightgrey;
-  min-height: 200px;
-  position: sticky;
-  height: 800px;
+  border-right: 1px solid lightgrey;
 }
 .brand-patch-para {
   margin-bottom: 0;

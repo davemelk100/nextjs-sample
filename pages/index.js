@@ -18,9 +18,9 @@ export default function Home() {
               <p className='brand-patch-para mb-0'>100% digital</p>
               <small className='brand-patch-para mb-0'>est. 2022</small>
             </div>
-          <div className='col-lg-9 p-5'>
+          <div className="col-lg-9">
             <h1 className="font-bold text-3xl font-serif">Melkonian Industries</h1>
-            <h2>Professional Services based around innvotive software development and
+            <h2>Professional Services based around innovative software development and
               a commitment to client satisfaction above all else.</h2>
               <p className="text-neutral-800 dark:text-neutral-200">
                 We fit the solution to achieve your goals. Our engagements are based on learning about you,
