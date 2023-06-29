@@ -10,17 +10,17 @@ body {
   font-weight: 900 !important;
   margin: 0;
   padding: 0;
-  border: 1px solid lightgrey;
-  justify-content: center;
-  align-items: center;
 }
 .brand-patch-heading {
   font-size: 5rem;
-  line-height: 1;
+  line-height: 1.5;
 }
 .brand-patch-para {
   margin-bottom: 0;
   color: grey;
+}
+.smaller {
+  line-height: 3;
 }
 .brand-patch-huge-text {
   margin-bottom: 0;

@@ -14,8 +14,7 @@ export default function Home() {
         <div className="row">
           <div className='col-lg-12 mb-3'>
             <h1 className="text-3xl">Melkonian Industries</h1>
-            <h2 className='home-h2'>Professional Services based around innovative software development and a 
-                commitment to client satisfaction.</h2>
+            <h2 className='home-h2'>Professional Services based around innovative software development and a commitment to client satisfaction.</h2>
           </div>
           <div className='col-lg-3 d-flex flex-column brand-patch'>
             <div className='row'>
@@ -23,7 +22,7 @@ export default function Home() {
                 <p className='brand-patch-heading col-12 mb-1 border-bottom'>Mi</p>
                 <p className='brand-patch-para mb-0 col-12'>melkonian industries</p>
                 <p className='brand-patch-para mb-0 col-12'>100% digital</p>
-                <p className='brand-patch-para mb-0 col-12 mb-1 border-bottom'>est. 2022</p>
+                <p className='brand-patch-para mb-0 col-12 mb-1 border-bottom smaller'>est. 2022</p>
               </div>
             </div>
           </div>
