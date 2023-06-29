@@ -11,10 +11,12 @@ body {
   margin: 0;
   padding: 0;
   border: 1px solid lightgrey;
+  justify-content: center;
+  align-items: center;
 }
 .brand-patch-heading {
   font-size: 5rem;
-  line-height: inherit;
+  line-height: 1;
 }
 .brand-patch-para {
   margin-bottom: 0;
@@ -30,6 +32,6 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
 }
