@@ -1,12 +1,16 @@
 body {
-  font-family: 'Courier New', Courier, monospace !important;
+  font-family: 'Ledger', serif !important;
 }
 .h1, h1, .h2, h2, .h3, h3, .h4, h4 {
-  font-family: 'Nixie One', cursive;
+  font-family: 'Nixie One', cursive !important;
   font-weight: 900 !important;
 }
 .brand-patch {
-  min-height: 1000px;
+  font-family: 'Nixie One', cursive !important;
+  font-weight: 900 !important;
+  margin: 0;
+  padding: 0;
+  border: 1px solid lightgrey;
 }
 .brand-patch-heading {
   font-size: 5rem;
@@ -22,10 +26,6 @@ body {
   justify-content: center;
 }
 .brand-icon {
-  min-height: 350px !important;
-  min-width: 350px !important;
-  height: 350px !important;
-  width: 350px !important;
   padding: 0;
   margin: 0;
   display: flex;
