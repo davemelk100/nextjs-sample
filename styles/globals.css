@@ -1,9 +1,12 @@
 body {
   font-family: 'Courier New', Courier, monospace !important;
 }
-.brand-patch,
-.brand-content {
-  border: 1px solid lightgrey;
+.h1, h1, .h2, h2, .h3, h3, .h4, h4 {
+  font-family: 'Nixie One', cursive;
+  font-weight: 900 !important;
+}
+.brand-patch {
+  min-height: 1000px;
 }
 .brand-patch-heading {
   font-size: 5rem;
@@ -11,9 +14,22 @@ body {
 }
 .brand-patch-para {
   margin-bottom: 0;
+  color: grey;
 }
 .brand-patch-huge-text {
   margin-bottom: 0;
   display: flex;
   justify-content: center;
+}
+.brand-icon {
+  min-height: 350px !important;
+  min-width: 350px !important;
+  height: 350px !important;
+  width: 350px !important;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
 }

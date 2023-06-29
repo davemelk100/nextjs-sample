@@ -6,16 +6,25 @@ export default function Home() {
       <Head>
         <title>Melkonian Industries</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
+        <link href="https://fonts.googleapis.com/css2?family=Nixie+One&display=swap" rel="stylesheet"></link>
       </Head>
-      <main className='row'>
-          <div className='col-lg-3 brand-patch p-5'>
-              <p className='brand-patch-heading'>MI</p>
-              <p className='brand-patch-para mb-0'>melkonian industries</p>
-              <p className='brand-patch-para mb-0'>100% digital</p>
-              <small className='brand-patch-para mb-0 home-small'>est. 2022</small>
+      <main className='row p-0'>
+          <div className='col-lg-4 d-flex flex-column brand-patch'>
+              <div className='row'>
+                <div className='col-lg-12 brand-icon'>
+                  <p className='brand-patch-heading col-12 mb-0'>Mi</p>
+                  <p className='brand-patch-para mb-0 col-12'>melkonian industries</p>
+                  <p className='brand-patch-para mb-0 col-12'>100% digital</p>
+                  <p className='brand-patch-para mb-0 col-12'>est. 2022</p>
+                </div>
+
+              </div>
+
             </div>
-          <div className="col-lg-9 brand-content p-5">
-            <h1 className="font-bold text-3xl font-serif">Melkonian Industries</h1>
+          <div className="col-lg-8 brand-content p-5">
+            <h1 className="text-3xl">Melkonian Industries</h1>
             <h2 className='home-h2'>Professional Services based around innovative software development and a 
               commitment to client satisfaction above all else.</h2>
               <p className="">
