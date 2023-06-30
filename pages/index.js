@@ -19,10 +19,10 @@ export default function Home() {
           <div className='col-lg-3 d-flex flex-column brand-patch'>
             <div className='row'>
               <div className='col-lg-12 brand-icon'>
-                <p className='brand-patch-heading col-12 mb-1 border-bottom'>Mi</p>
+                <p className='brand-patch-heading col-12 mb-1'>Mi</p>
                 <p className='brand-patch-para mb-0 col-12'>melkonian industries</p>
                 <p className='brand-patch-para mb-0 col-12'>100% digital</p>
-                <p className='brand-patch-para mb-0 col-12 mb-1 border-bottom smaller'>est. 2022</p>
+                <p className='brand-patch-para mb-0 col-12 mb-1 smaller'>est. 2022</p>
               </div>
             </div>
           </div>
