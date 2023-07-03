@@ -22,11 +22,12 @@ export default function Home() {
                 <p className='brand-patch-heading col-12 mb-1'>Mi</p>
                 <p className='brand-patch-para mb-0 col-12'>melkonian industries</p>
                 <p className='brand-patch-para mb-0 col-12'>100% digital</p>
-                <p className='brand-patch-para mb-0 col-12 mb-1 smaller'>est. 2022</p>
+                <p className='brand-patch-para mb-0 col-12 smaller underline-small mb-2'>circa 2022</p>
+                <p className='brand-patch-para mb-0 col-12 smaller underline-small mb-2'>&copy;davemelk</p>
               </div>
             </div>
           </div>
-          <div className="col-lg-9 brand-content p-4">
+          <div className="col-lg-9 brand-content p-4 border-multi">
               <p className="">
                 We fit the solution to achieve your goals. Our engagements are based on learning about you, as our client, so we can support your organization's quest for effectiveness, efficiency, and innovation.
               </p>
