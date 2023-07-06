@@ -16,7 +16,7 @@ export default function Home() {
             <h1 className="text-3xl">Melkonian Industries</h1>
             <h2 className='home-h2'>Professional Services based around innovative software development and a commitment to client satisfaction.</h2>
           </div>
-          <div className='col-lg-3 d-flex flex-column brand-patch'>
+          <div className='col-lg-3 d-flex flex-column brand-patch mb-5'>
             <div className='row'>
               <div className='col-lg-12 brand-icon'>
                 <p className='brand-patch-heading col-12 mb-1'>Mi</p>
